@@ -1,0 +1,6 @@
+{
+  "name": "TechStore - Cửa Hàng Điện Tử & Nền Tảng Kiểm Thử Selenium",
+  "description": "Website thương mại điện tử chuyên biệt chuẩn bị đầy đủ định danh data-testid, id, biểu mẫu, giỏ hàng, thanh toán và bảng hướng dẫn cho kiểm thử hộp đen bằng Selenium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
